@@ -1,0 +1,21 @@
+<html>
+<head>
+<tile>College Timetable</title>
+<table border="1"align="center" width="100%"height="500">
+</head>
+<body>
+<table>
+
+<tr>
+<th colspan="8">College Timetable - CSE Department</th>
+</tr>
+  
+
+<th>Day / Time</th>
+<th>9:00-10:00</th>
+<th>
+<th>
+<th>
+<th>
+<th>
+<th>
